@@ -4,3 +4,4 @@
   
 #### To answer this question I collected data from a number of different sources, from the Bureau of Labor Statistics to the US Census, and centralized it in a single dataset. I then created some interactive maps displaying information about each county, created some plots, and finally built a random forest model to learn which features were most important in determining whether a county voted for Biden or Trump.
 
+#### The accompanying notebooks contain the code I used to merge and clean my data and the code I used for my analysis, visualizations, and model building. I have also included a Data folder with the the datasets I used for this project. The original datasets I downloaded from sources such as the US Census are not included because these datasets contained more information than I needed which made them very large. However, I have included cleaned versions of those datasets.
