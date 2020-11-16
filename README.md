@@ -1,1 +1,1 @@
-# 2020-Presidential-Election-County-Level-Analysis-and-Predictor
+# 2020 Presidential Election County Level Analysis and Predictor
