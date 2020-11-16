@@ -6,7 +6,7 @@
 
 #### The accompanying notebooks contain the code I used to merge and clean my data and the code I used for my analysis, visualizations, and model building. I have also included a Data folder with the the datasets I used for this project. The original datasets I downloaded from sources such as the US Census are not included because these datasets contained more information than I needed which made them very large. However, I have included cleaned versions of those datasets.
 
-#### Data Sources
+#### Data Sources:
 Covid data collected from USAFacts: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
 
 County level unemployment data collected from The Bureau of Labor Statistics: https://www.bls.gov/lau/#tables
